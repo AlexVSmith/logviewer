@@ -3,6 +3,7 @@
 #include "logging.h"
 
 //http://magtuxdev.blogspot.ru/2013/08/git-qt-creator-github-windows.html
+//http://exlmoto.ru/git-and-qt-creator/
 
 int main(int argc, char *argv[]) {
 
