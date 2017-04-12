@@ -1,9 +1,10 @@
 #include "core.h"
 #include <QApplication>
 #include "logging.h"
-
-//http://magtuxdev.blogspot.ru/2013/08/git-qt-creator-github-windows.html
-//http://exlmoto.ru/git-and-qt-creator/
+// 123
+//!!! http://magtuxdev.blogspot.ru/2013/08/git-qt-creator-github-windows.html
+//http://rsusu1.rnd.runnet.ru/unix/ucomm/vi.html
+//??? http://exlmoto.ru/git-and-qt-creator/
 
 int main(int argc, char *argv[]) {
 
