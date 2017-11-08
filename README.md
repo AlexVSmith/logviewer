@@ -1,2 +1,2 @@
 # logviewer
-Log viewer
+Log viewer programm
